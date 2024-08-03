@@ -1,0 +1,39 @@
+{
+  "name": "Khinh Tuyết Viên",
+  "ID": "100062270838075",
+  "pet": [
+    {
+      "name": "Bulbasaur",
+      "type": "Grass",
+      "HP": "42.755.2",
+      "Attack": "46.555.2",
+      "Defense": "46.555.2",
+      "Speed": "42.755.2",
+      "coins": 22860,
+      "skill": [
+        "Overgrow",
+        "Chlorophyll"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/001.png"
+    },
+    {
+      "name": "Celebi",
+      "type": "Psychic",
+      "HP": "40.0",
+      "Attack": "40.0",
+      "Defense": "40.0",
+      "Speed": "40.0",
+      "skill": [
+        "Natural Cure"
+      ],
+      "coins": 0,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/251.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 0,
+    "lose": 1,
+    "draw": 0
+  }
+}
